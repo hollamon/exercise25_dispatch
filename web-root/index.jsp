@@ -1,0 +1,3 @@
+<%
+	pageContext.forward("bookmarks.do");
+%>
